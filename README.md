@@ -13,6 +13,8 @@ The objective of this analysis is to identify the key drivers of employee attrit
 
 **Dataset overview**
 
+The dataset used in this analysis is the IBM HR Analytics Employee Attrition Dataset, obtained from Kaggle.
+
 https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
 
 -   The dataset consists of employee-level records capturing demographic details, job-related attributes, compensation, work environment, and attrition status. It is designed to analyze patterns and drivers of employee attrition.
